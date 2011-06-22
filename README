@@ -1,0 +1,7 @@
+fastget
+
+Introduction 
+
+fastget is a cross-platform download tool with multi protocols, such as p2p, bit, ftp, http and so on. there is some good download software on linux, but not so cool as i want to get. so, i want to write one by myself. that is why i have build this project here.
+
+Chinese users must know the fastest download tools is thunder (xunlei), but it is not a free and open source software. May be you have some good ideas, but you can't add it into thunder client, but today, it is time to try your ideas, let's go !
